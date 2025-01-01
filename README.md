@@ -1,5 +1,5 @@
 # Color Pallet CSS-HTML
-Awesome Color Pallet for graphic design &amp; coding.
+Color Pallet for graphic design &amp; coding.
 Hexadecimal (Hex) | Color Hex | HTML Color Code
 
 
